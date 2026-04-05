@@ -7,4 +7,4 @@ A web-based apppication to help students manage tasks, deadlines and study sched
 - Study planning
 
 ## Goal
-To improve student productivity and support SDG 4: Quality Education.
+To improve student productivity and support SDG 4: Quality Education. Helping students organize their study schedules and improve learning efficiency.
